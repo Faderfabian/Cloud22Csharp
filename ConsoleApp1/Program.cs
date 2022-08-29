@@ -74,10 +74,12 @@ Console.WriteLine(math4);
 
 */
 
-var math1 = 1;
+/*var math1 = 1;
 math1 = math1 * 2;
 Console.WriteLine("Enter number to be multiplied by 2:");
-Console.WriteLine("your answer is:" + math1);
+Console.WriteLine("your answer is:" + math1); */
+
+Console.WriteLine("Hello World!");
 
 
 
